@@ -25,3 +25,5 @@ azure_text_to_speech_example-*.tar
 
 # Temporary files for e.g. tests
 /tmp
+
+/output
